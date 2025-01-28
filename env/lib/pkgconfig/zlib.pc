@@ -1,0 +1,13 @@
+prefix=/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/env
+exec_prefix=/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/env
+libdir=/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/env/lib
+sharedlibdir=/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/env/lib
+includedir=/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
