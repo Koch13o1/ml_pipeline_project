@@ -62,6 +62,7 @@ class CustomClass:
                 "workclass": [self.workclass],
                 "education_num": [self.education_num],
                 "marital_status": [self.marital_status],
+                "occupation": [self.occupation],
                 "relationship": [self.relationship],
                 "race": [self.race],
                 "sex": [self.sex],
@@ -72,6 +73,8 @@ class CustomClass:
             }
 
             data = pd.DataFrame(customInput)
+
+            return data
         except Exception as e:
             raise CustomException(e, sys)
 

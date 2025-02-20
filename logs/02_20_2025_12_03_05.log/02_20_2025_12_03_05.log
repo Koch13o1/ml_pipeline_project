@@ -1,0 +1,5 @@
+[ 2025-02-20 12:03:05,578 ] 97 werkzeug WARNING  * Debugger is active!
+[ 2025-02-20 12:03:05,584 ] 97 werkzeug INFO  * Debugger PIN: 114-140-594
+[ 2025-02-20 12:03:08,953 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 12:03:08] "POST / HTTP/1.1" 200 -
+[ 2025-02-20 12:03:53,035 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 12:03:53] "GET / HTTP/1.1" 200 -
+[ 2025-02-20 12:04:14,638 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 12:04:14] "POST / HTTP/1.1" 200 -

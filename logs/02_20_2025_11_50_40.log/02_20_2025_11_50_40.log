@@ -1,0 +1,15 @@
+[ 2025-02-20 11:50:41,259 ] 97 werkzeug WARNING  * Debugger is active!
+[ 2025-02-20 11:50:41,266 ] 97 werkzeug INFO  * Debugger PIN: 114-140-594
+[ 2025-02-20 11:52:37,962 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:52:37] "GET / HTTP/1.1" 200 -
+[ 2025-02-20 11:53:37,944 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:37] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-20 11:53:37,966 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-20 11:53:37,968 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-20 11:53:38,020 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ou77Iv9BGmyleZXOzE64 HTTP/1.1" 200 -
+[ 2025-02-20 11:53:38,021 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-20 11:53:38,113 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:53:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:54:05,376 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-20 11:54:05,398 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:54:05,398 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:54:05,447 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:54:05,449 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ou77Iv9BGmyleZXOzE64 HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:54:05,491 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:54:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

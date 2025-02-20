@@ -1,0 +1,16 @@
+[ 2025-02-20 11:56:09,782 ] 97 werkzeug WARNING  * Debugger is active!
+[ 2025-02-20 11:56:09,790 ] 97 werkzeug INFO  * Debugger PIN: 114-140-594
+[ 2025-02-20 11:56:13,289 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-20 11:56:13,312 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:13,313 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:13,364 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:13,365 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=rKiU7g5EobiF6QyhxbC4 HTTP/1.1" 200 -
+[ 2025-02-20 11:56:13,408 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:21,139 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:21] "GET / HTTP/1.1" 200 -
+[ 2025-02-20 11:56:43,065 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-20 11:56:43,084 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:43,085 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:43,135 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=rKiU7g5EobiF6QyhxbC4 HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:43,135 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:56:43,188 ] 97 werkzeug INFO 127.0.0.1 - - [20/Feb/2025 11:56:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-20 11:57:13,812 ] 97 werkzeug INFO  * Detected change in '/Users/maitreyakocharekar/Documents/MLproject/ml_pipeline_project/app.py', reloading
