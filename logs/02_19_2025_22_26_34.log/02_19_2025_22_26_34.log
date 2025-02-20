@@ -1,0 +1,6 @@
+[ 2025-02-19 22:26:35,201 ] 26 root INFO Data Ingestion Started
+[ 2025-02-19 22:26:35,201 ] 28 root INFO Data Reading using Pandas library from local system
+[ 2025-02-19 22:26:35,218 ] 30 root INFO Data Reading completed
+[ 2025-02-19 22:26:35,254 ] 35 root INFO Data Splitted into train and test
+[ 2025-02-19 22:26:35,295 ] 42 root INFO Data ingestion completed
+[ 2025-02-19 22:26:35,307 ] 68 root INFO Ouliers Handling code

@@ -1,0 +1,5 @@
+[ 2025-02-19 22:22:18,014 ] 25 root INFO Data Ingestion Started
+[ 2025-02-19 22:22:18,014 ] 27 root INFO Data Reading using Pandas library from local system
+[ 2025-02-19 22:22:18,030 ] 29 root INFO Data Reading completed
+[ 2025-02-19 22:22:18,081 ] 34 root INFO Data Splitted into train and test
+[ 2025-02-19 22:22:18,110 ] 49 root INFO Error Occured in Data Ingestion Stage
